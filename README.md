@@ -1,2 +1,2 @@
-# GIS_Requests
-Requests for GIS work and support in the Utah Geological Survey.
+# Feature requests
+Use the Issues tab to request changes to the Utah Core Research Center Survey 123 application
